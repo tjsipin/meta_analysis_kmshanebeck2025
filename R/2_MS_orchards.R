@@ -1,7 +1,3 @@
-#' A) Marg group: group proxy, B) Risk group: risk proxy, and (C) Marg group: risk group
-#' Could you update those so they all have different colors (not sure how that works in orchard). 
-#' Also we need to order B so it goes 1) pre-exposure ('exposure risk'), 2) exposure ('infection risk'), 3) post-exposure ("Disease Risk").
-
 setwd("/home/tjsipin/network-storage/meta_analysis/")
 library(orchaRd)
 require(metaviz)
